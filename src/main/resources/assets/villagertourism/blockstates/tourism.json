@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "villagertourism:block/tourism",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "villagertourism:block/tourism",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "villagertourism:block/tourism",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "villagertourism:block/tourism"
+    }
+  }
+}

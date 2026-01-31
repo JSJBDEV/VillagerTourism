@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tourism",
+  "ingredients": [
+
+    {"item": "minecraft:glass"},
+    {"item": "minecraft:glowstone_dust"},
+    {"item": "minecraft:iron_ingot"}
+
+  ],
+  "result": {
+    "item": "villagertourism:camera"
+  }
+}
